@@ -35,8 +35,8 @@ Thumbs.db
 
 # Environment variables
 Frontend/.env
+ฺBackend/.env
 
 # Optional: ignore package-lock.json if you're using npm
 Frontend/package-lock.json
 
-ฺBackend/.env
